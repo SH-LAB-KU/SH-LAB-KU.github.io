@@ -1,0 +1,8 @@
+# year, authors, title, journal, link 순으로 항목을 추가하세요.
+# 최신 논문이 위로 오도록 정렬합니다.
+
+- year: 2026
+  authors: "Yoo N, et al."
+  title: "논문 제목을 입력하세요"
+  journal: "Biotechnic & Histochemistry"
+  link: "#"

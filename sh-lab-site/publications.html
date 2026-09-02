@@ -1,0 +1,18 @@
+---
+layout: default
+title: 논문
+permalink: /publications/
+---
+<h1>논문</h1>
+
+<ul class="pub-list">
+  {% assign pubs = site.data.publications | sort: 'year' | reverse %}
+  {% for p in pubs %}
+  <li>
+    <span class="pub-year">{{ p.year }}</span>
+    <strong>{{ p.title }}</strong><br>
+    {{ p.authors }}. <em>{{ p.journal }}</em>.
+    {% if p.link and p.link != "#" %} <a href="{{ p.link }}">link</a>{% endif %}
+  </li>
+  {% endfor %}
+</ul>
