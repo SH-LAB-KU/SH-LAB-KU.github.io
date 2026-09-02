@@ -7,7 +7,17 @@ permalink: /people/
 
 <div class="card-grid">
   {% for m in site.data.members %}
-  <div class="card">
+  <div class="card member-card">
+    {% if m.photo %}
+      <div class="member-photo-wrap">
+        <img class="member-photo" src="{{ '/assets/img/members/' | append: m.photo | relative_url }}" alt="{{ m.name }}">
+        {% if m.photo_hover %}
+          <img class="member-photo member-photo-hover" src="{{ '/assets/img/members/' | append: m.photo_hover | relative_url }}" alt="{{ m.name }}">
+        {% endif %}
+      </div>
+    {% else %}
+      <div class="member-avatar">{{ m.name | slice: 0, 1 }}</div>
+    {% endif %}
     <h3>{{ m.name }}</h3>
     <p>{{ m.role }}</p>
     <p>{{ m.desc }}</p>
