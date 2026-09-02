@@ -22,19 +22,19 @@
   photo_hover: yuna_hover.jpg
 
 - name: 임하영
-  role: 학부연구생 (2024 ~)
+  role: 학부연구생
   desc: 
   photo: lhy.jpg
   photo_hover: lhy_hover.jpg
 
 - name: 조은영
-  role: 학부연구생 (2026 ~)
+  role: 학부연구생
   desc: 
   photo: ey.jpg
   photo_hover: ey_hover.jpg
-  
+
 - name: 조민준
-  role: 학부연구생 (2026 ~)
+  role: 학부연구생
   desc: 
   photo: mj.jpg
   photo_hover: mj_hover.jpg
