@@ -21,23 +21,23 @@
   photo: yuna.jpg
   photo_hover: yuna_hover.jpg
 
-- name: 조민준
-  role: 학부연구생
-  desc: 
-  photo: mj.jpg
-  photo_hover: mj_hover.jpg
-
-- name: 조은영
-  role: 학부연구생
-  desc: 
-  photo: ey.jpg
-  photo_hover: ey_hover.jpg
-
 - name: 임하영
-  role: 학부연구생
+  role: 학부연구생 (2024 ~)
   desc: 
   photo: lhy.jpg
   photo_hover: lhy_hover.jpg
+
+- name: 조은영
+  role: 학부연구생 (2026 ~)
+  desc: 
+  photo: ey.jpg
+  photo_hover: ey_hover.jpg
+  
+- name: 조민준
+  role: 학부연구생 (2026 ~)
+  desc: 
+  photo: mj.jpg
+  photo_hover: mj_hover.jpg
 
 # 새 구성원 추가 예시 (photo는 없으면 생략 가능 — 이니셜 아바타로 대체됨)
 # - name: 이름
