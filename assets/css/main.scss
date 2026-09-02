@@ -125,14 +125,32 @@ body {
 .member-card {
   text-align: center;
 
+  .member-photo-wrap {
+    position: relative;
+    width: 88px;
+    height: 88px;
+    margin: 0 auto 12px;
+  }
+
   .member-photo {
     width: 88px;
     height: 88px;
     border-radius: 50%;
     object-fit: cover;
-    margin: 0 auto 12px;
     display: block;
     border: 2px solid $white;
+  }
+
+  .member-photo-hover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 0.25s ease;
+  }
+
+  .member-photo-wrap:hover .member-photo-hover {
+    opacity: 1;
   }
 
   .member-avatar {
