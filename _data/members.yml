@@ -6,32 +6,38 @@
 - name: 한민기
   role: 박사후연구원
   desc: 
-  photo: yuna.jpg
+  photo: mg.jpg
+  photo_hover: mg_hover.jpg
 
 - name: 맹효영
   role: 박사과정
   desc: 
-  photo: yuna.jpg
+  photo: hy.jpg
+  photo_hover: hy_hover.jpg
 
 - name: 박유나
   role: 석박사통합과정
   desc: 
   photo: yuna.jpg
+  photo_hover: yuna_hover.jpg
 
 - name: 조민준
   role: 학부연구생
   desc: 
-  photo: yuna.jpg
+  photo: mj.jpg
+  photo_hover: mj_hover.jpg
 
 - name: 조은영
   role: 학부연구생
   desc: 
-  photo: yuna.jpg
+  photo: ey.jpg
+  photo_hover: ey_hover.jpg
 
 - name: 임하영
   role: 학부연구생
   desc: 
-  photo: yuna.jpg
+  photo: lhy.jpg
+  photo_hover: lhy_hover.jpg
 
 # 새 구성원 추가 예시 (photo는 없으면 생략 가능 — 이니셜 아바타로 대체됨)
 # - name: 이름
