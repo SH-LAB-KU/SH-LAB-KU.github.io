@@ -122,6 +122,34 @@ body {
   p  { margin: 0; font-size: 13px; color: $text-secondary; }
 }
 
+.member-card {
+  text-align: center;
+
+  .member-photo {
+    width: 88px;
+    height: 88px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 12px;
+    display: block;
+    border: 2px solid $white;
+  }
+
+  .member-avatar {
+    width: 88px;
+    height: 88px;
+    border-radius: 50%;
+    margin: 0 auto 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: $green-200;
+    color: $green-900;
+    font-size: 24px;
+    font-weight: 600;
+  }
+}
+
 // ---------- 논문 리스트 ----------
 .pub-list {
   list-style: none;
