@@ -1,42 +1,102 @@
 # year, authors, title, journal, link 순으로 항목을 추가하세요.
 # 최신 논문이 위로 오도록 정렬합니다.
 
-- year: 2008
+- year: 2011
   authors: ""
   title: ""
   journal: ""
   link: ""
 
-- year: 2008
+- year: 2011
   authors: ""
   title: ""
   journal: ""
   link: ""
 
-- year: 2008
+- year: 2011
   authors: ""
   title: ""
   journal: ""
   link: ""
+
+- year: 2011
+  authors: ""
+  title: ""
+  journal: ""
+  link: ""
+
+- year: 2011
+  authors: ""
+  title: ""
+  journal: ""
+  link: ""
+
+- year: 2011
+  authors: ""
+  title: ""
+  journal: ""
+  link: ""
+
+- year: 2011
+  authors: ""
+  title: "Immune Modulation Effect of Pig Placenta Extracts in a Mouse Model: Putative Use as a Functional Food Supplement"
+  journal: "KOREAN JOURNAL FOR FOOD SCIENCE OF ANIMAL RESOURCES"
+  link: ""
+
+- year: 2011
+  authors: ""
+  title: "Chromosome Remodeling and Differentiation of Tetraploid Embryos During Preimplantation Development"
+  journal: "DEVELOPMENTAL DYNAMICS"
+  link: ""
+
+- year: 2011
+  authors: ""
+  title: "Characterization of a putative cis-regulatory element that controls transcriptional activity of the pig uroplakin II gene promoter"
+  journal: "BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS"
+  link: ""
+
+- year: 2011
+  authors: "Park, H. J., Kuk, I. S., Kim, J. H., Kim, J. H., Song, S. J., Choi, B. C., Kim, B., Kim, N. H., & <strong>Song, H.</strong>"
+  title: "Characterisation of mouse interferon-induced transmembrane protein-1 gene expression in the mouse uterus during the oestous cycle and pregnancy"
+  journal: "REPRODUCTION FERTILITY AND DEVELOPMENT"
+  link: "https://doi.org/10.1071/rd10086"
+
+- year: 2011
+  authors: "Kim, J. H., Park, J. Y., Park, M. R., Hwang, K. C., Park, K. K., Park, C., Cho, S. K., Lee, H. C., <strong>Song, H.</strong>, Park, S. B., Kim, T., & Kim, J. H."
+  title: "Developmental arrest of scNT-derived fetuses by disruption of the developing endometrial gland as a result of impaired trophoblast migration and invasiveness"
+  journal: "Developmental Dynamics"
+  link: "https://doi.org/10.1002/dvdy.22568"
+
+- year: 2011
+  authors: "Park, H.J., Kim, J.B., Han, I., Kim, J.H., Kim, B., Kang, S.H., Jung, H.S., Moon, S., Sung, S.H., & <strong>Song, H.</strong>"
+  title: "Extract of Poncirus trifoliata fruit reduces elevated serum IgE concentrations in chemically induced allergic model mice"
+  journal: "HORTICULTURE ENVIRONMENT AND BIOTECHNOLOGY"
+  link: "https://doi.org/10.1007/s13580-011-0184-7"
+
+- year: 2011
+  authors: "Won, K. J., Lee, H. M., Lee, C. K., Lin, H. Y., Na, H., Lim, K. W., Roh, H. Y., Sim, S., <strong>Song, H.</strong>, Choi, W. S., Lee, S. H., & Kim, B."
+  title: "Protein Tyrosine Phosphatase SHP-2 Is Positively Involved in Platelet-Derived Growth Factor-Signaling in Vascular Neointima Formation via the Reactive Oxygen Species-Related Pathway"
+  journal: "JOURNAL OF PHARMACOLOGICAL SCIENCES"
+  link: "https://doi.org/10.1254/jphs.10250fp"
 
 - year: 2010
   title: "유기산제와 미생물제제 급여가 자돈의 면역세포 농도 및 활성변화에 미치는 영향"
   journal: "건국자연과학연구지"
 
 - year: 2010
-  authors: "Chang-Jin Lee, Young-Tae Lim, Sung-Ho Kang, Ho Sung Jung, Kim,Oun-Hyun, 성시형 and Song,Hyuk."
+  authors: "Lee, C.-J., Lim, Y.-T., Kang, S.-H., Jung, H. S., Kim, O.-H., Seong, S.-H., & <strong>Song, H.</strong>"
   title: "Effect of Duck-meat intake on adult disese risk factors in adult human males"
   journal: "KOREAN JOURNAL FOR FOOD SCIENCE OF ANIMAL RESOURCES"
-  link: ""
+  link: "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001504455"
 
 - year: 2009
-  authors: "Park HJ et al."
+  authors: "Park, H. J., Choung, E. H., Kim, J. H., Chai, S. Y., Choi, J. Y., Kim, J. H., & <strong>Song, H.</strong>"
   title: "Effect of Smoking and Alcohol Consumption on Seminal Quality in Young Mice"
   journal: "Reproductive & Developmental biology"
-  link: ""
+  link: "https://www.e-jarb.org/journal/view.html?uid=423&vmd=Full"
 
 - year: 2009
-  authors: "Kim, J et al."
+  authors: "Kim, J., Won, K. J., Lee, H. M., Hwang, B. Y., Bae, Y. M., Choi, W. S., <strong>Song, H.</strong>, Lim, K. W., Lee, C. K., & Kim, B."
   title: "p38 MAPK Participates in Muscle-Specific RING Finger 1-Mediated Atrophy in Cast-Immobilized Rat Gastrocnemius Muscle"
   journal: "KOREAN JOURNAL OF PHYSIOLOGY & PHARMACOLOGY"
   link: "https://doi.org/10.4196/kjpp.2009.13.6.491"
@@ -46,7 +106,7 @@
   journal: "건국자연과학연구지"
 
 - year: 2009
-  authors: "Park HJ, Lee WY, Kim JH, et al."
+  authors: "Park, H. J., Lee, W. Y., Kim, J. H., Kim, J. H., Jung, H. J., Kim, N. H., Kim, B. K., & <strong>Song, H.</strong>"
   title: "Interstitial tissue-specific gene expression in mouse testis by intra-tunica albuguineal injection of recombinant baculovirus"
   journal: "ASIAN JOURNAL OF ANDROLOGY"
   link: "https://doi.org/10.1038/aja.2008.54"
@@ -56,49 +116,49 @@
   journal: "건국자연과학연구지"
 
 - year: 2008
-  authors: "Lee, H. M., Kim, H. J., Won, K., Choi, W. S., Park, S. H., Song, H., Park, P., Park, T.-K., Lee, C., & Kim, B."
+  authors: "Lee, H. M., Kim, H. J., Won, K., Choi, W. S., Park, S. H., <strong>Song, H.</strong>, Park, P., Park, T.-K., Lee, C., & Kim, B."
   title: "Soluble form of vascular cell adhesion molecule 1 induces migration and proliferation of vascular smooth muscle cells"
   journal: "JOURNAL OF VASCULAR RESEARCH"
   link: "https://doi.org/10.1159/000112941"
 
 - year: 2008
-  authors: "Choi, Y. J., Uhm, S. J., Song, S. J., Song, H., Park, J. K., Kim, T., Park, C., & Kim, J. H."
+  authors: "Choi, Y. J., Uhm, S. J., Song, S. J., <strong>Song, H.</strong>, Park, J. K., Kim, T., Park, C., & Kim, J. H."
   title: "Cytochrome c upregulation during capacitation and spontaneous acrosome reaction determines the fate of pig sperm cells: linking proteome analysis"
   journal: "JOURNAL OF REPRODUCTION AND DEVELOPMENT"
   link: "https://doi.org/10.1262/jrd.19116"
 
 - year: 2007
-  authors: "Choi, Y. J., Park, J. K., Lee, M. S., Ahn, J. D., Hwang, K. C., Song, H., & Kim, J. H."
+  authors: "Choi, Y. J., Park, J. K., Lee, M. S., Ahn, J. D., Hwang, K. C., <strong>Song, H.</strong>, & Kim, J. H."
   title: "Long-term follow-up of porcine male germ cells transplanted into mouse testes"
   journal: "ZYGOTE"
   link: "https://doi.org/10.1017/s0967199407004376"
 
 - year: 2007
-  authors: "Huh, Sun-Hyung et al."
+  authors: "Huh, S. H., Do, H. J., Lim, H. Y., Kim, D. K., Choi, S. J., <strong>Song, H.</strong>, Kim, N. H., Park, J. K., Chang, W. K., Chung, H. M., & Kim, J. H."
   title: "Optimization of 25kDa linear polyethylenimine for efficient gene delivery"
   journal: "BIOLOGICALS"
   link: "https://doi.org/10.1016/j.biologicals.2006.08.004"
 
 - year: 2007
-  authors: "Do, Hyun-Jin et al."
+  authors: "Do, H. J., Lim, H. Y., Kim, J. H., <strong>Song, H.</strong>, Chung, H. M., & Kim, J. H."
   title: "An intact homeobox domain is required for complete nuclear localization of human Nanog"
   journal: "BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS"
   link: "https://doi.org/10.1016/j.bbrc.2006.12.100"
 
 - year: 2006
-  authors: "Do, Hyun-Jin et al."
+  authors: "Do, H. J., <strong>Song, H.</strong>, Yang, H. M., Kim, D. K., Kim, N. H., Kim, J. H., Cha, K. Y., Chung, H. M., & Kim, J. H."
   title: "Identification of multiple nuclear localization signals in murine Elf3, an ETS transcription factor"
   journal: "FEBS LETTERS"
   link: "https://doi.org/10.1016/j.febslet.2006.02.049"
 
 - year: 2006
-  authors: "Kwon, Deug-Nam et al."
+  authors: "Kwon, D. N., <strong>Song, H.</strong>, Park, J. Y., Lee, S. Y., Cho, S. K., Kang, S. J., Jang, J. S., Seo, H. G., & Kim, J. H."
   title: "Dynamic control of oligosaccharide modification in the mammary gland: linking recombinant human erythropoietin functional analysis of transgenic mouse milk-derived hEPO"
   journal: "TRANSGENIC RESEARCH"
   link: "https://doi.org/10.1007/s11248-005-3519-2"
 
 - year: 2006
-  authors: "Choi, Yun-Jung et al."
+  authors: "Choi, Y. J., <strong>Song, H.</strong>, Kwon, D. N., Cho, S. K., Kang, S. J., Yoe, S. M., Kim, H. C., Lee, H. T., Park, C., & Kim, J. H."
   title: "Significant IgG-immunoreactivity of the spermatogonia of the germ cell-depleted testis after busulfan treatment"
   journal: "ANIMAL REPRODUCTION SCIENCE"
   link: "https://doi.org/10.1016/j.anireprosci.2005.04.002"
