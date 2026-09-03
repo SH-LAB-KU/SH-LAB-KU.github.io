@@ -20,7 +20,6 @@
   link: ""
 
 - year: 2010
-  authors: ""
   title: "유기산제와 미생물제제 급여가 자돈의 면역세포 농도 및 활성변화에 미치는 영향"
   journal: "건국자연과학연구지"
 
@@ -31,19 +30,18 @@
   link: ""
 
 - year: 2009
-  authors: ""
+  authors: "Park HJ et al."
   title: "Effect of Smoking and Alcohol Consumption on Seminal Quality in Young Mice"
   journal: "Reproductive & Developmental biology"
   link: ""
 
 - year: 2009
-  authors: ""
+  authors: "Kim, J et al."
   title: "p38 MAPK Participates in Muscle-Specific RING Finger 1-Mediated Atrophy in Cast-Immobilized Rat Gastrocnemius Muscle"
   journal: "KOREAN JOURNAL OF PHYSIOLOGY & PHARMACOLOGY"
-  link: ""
+  link: "https://doi.org/10.4196/kjpp.2009.13.6.491"
  
 - year: 2009
-  authors: ""
   title: "망고스틴(Garcinia mangostana L) 추출물의 항산화 효과 규명"
   journal: "건국자연과학연구지"
 
@@ -54,10 +52,8 @@
   link: ""
 
 - year: 2008
-  authors: ""
   title: "성체 마우스 정소로부터 sertoli 세포와 Leydig 세포의 분리와 배양"
   journal: "건국자연과학연구지"
-  link: ""
 
 - year: 2008
   authors: "Lee, Hwan Myung, et al."
