@@ -1,10 +1,250 @@
 # year, authors, title, journal, link 순으로 항목을 추가하세요.
 # 최신 논문이 위로 오도록 정렬합니다.
 
-- year: 2014
+- year: 2017
   authors: ""
   title: ""
   journal: ""
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: ""
+  journal: ""
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: ""
+  journal: ""
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: ""
+  journal: ""
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: ""
+  journal: ""
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: ""
+  journal: ""
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: ""
+  journal: ""
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: ""
+  journal: ""
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Efficient delivery of C/EBP beta gene into human mesenchymal stem cells via polyethylenimine-coated gold nanoparticles enhances adipogenic differentiation"
+  journal: "SCIENTIFIC REPORTS"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "In Vivo Generation of Neural Stem Cells Through Teratoma Formation"
+  journal: "STEM CELLS AND DEVELOPMENT"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Effects of the Insulin-like Growth Factor Pathway on the Regulation of Mammary Gland Development"
+  journal: "발생과 생식"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "소의 정원세포에서 Matrix Metalloproteinase-9(MMP-9) 발현 양상 구명"
+  journal: "동물자원연구"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Mitochondrial interferon-induced transmembrane protein-1 is a critical regulator of cell death in MPRO cells"
+  journal: "BIOTECHNOLOGY AND BIOPROCESS ENGINEERING"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Partial loss of interleukin 2 receptor gamma function in pigs provides mechanistic insights for the study of human immunodeficiency syndrome"
+  journal: "ONCOTARGET"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "In Vitro Ectopic Behavior of Porcine Spermatogonial Germ Cells and Testicular Somatic Cells"
+  journal: "CELLULAR REPROGRAMMING"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Cationic lipid-nanoceria hybrids, a novel nonviral vector-mediated gene delivery into mammalian cells: investigation of the cellular uptake mechanism"
+  journal: "SCIENTIFIC REPORTS"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Changes in Parthenogenetic Imprinting Patterns during Reprogramming by Cell Fusion"
+  journal: "PLOS ONE"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Potential toxicity of engineered nanoparticles in mammalian germ cells and developing embryos: treatment strategies and anticipated applications of nanoparticles in gene delivery"
+  journal: "HUMAN REPRODUCTION UPDATE"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Hypoxia-mediated autophagic flux inhibits silver nanoparticle-triggered apoptosis in human lung cancer cells"
+  journal: "SCIENTIFIC REPORTS"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Identification of Putative Biomarkers for the Early Stage of Porcine Spermatogonial Stem Cells Using Next-Generation Sequencing"
+  journal: "PLOS ONE"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Vitrified canine testicular cells allow the formation of spermatogonial stem cells and seminiferous tubules following their xenotransplantation into nude mice"
+  journal: "SCIENTIFIC REPORTS"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "SOHLH2 is essential for synaptonemal complex formation during spermatogenesis in early postnatal mouse testes"
+  journal: "SCIENTIFIC REPORTS"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Biochanin A Ameliorates Arsenic-Induced Hepatoand Hematotoxicity in Rats"
+  journal: "MOLECULES"
+  link: ""
+
+- year: 2016
+  authors: ""
+  title: "Subculture of Germ Cell-Derived Colonies with GATA4-Positive Feeder Cells from Neonatal Pig Testes"
+  journal: "STEM CELLS INTERNATIONAL"
+  link: ""
+
+- year: 2015
+  authors: ""
+  title: "Acrosin-binding protein (ACRBP) in the testes of stallions"
+  journal: "ANIMAL REPRODUCTION SCIENCE"
+  link: ""
+
+- year: 2015
+  authors: ""
+  title: "Lack of Cytosolic Carboxypeptidase 1 Leads to Subfertility due to the Reduced Number of Antral Follicles in pcd3J(-/-) Females"
+  journal: "PLOS ONE"
+  link: ""
+
+- year: 2015
+  authors: ""
+  title: "In vivo reprogrammed pluripotent stem cells from teratomas share analogous properties with their in vitro counterparts"
+  journal: "SCIENTIFIC REPORTS"
+  link: ""
+
+- year: 2015
+  authors: ""
+  title: "CMP-Neu5Ac Hydroxylase Null Mice as a Model for Studying Metabolic Disorders Caused by the Evolutionary Loss of Neu5Gc in Humans"
+  journal: "BIOMED RESEARCH INTERNATIONAL"
+  link: ""
+
+- year: 2015
+  authors: ""
+  title: "Effects of Egg White Consumption on Immune Modulation in a Mouse Model of Trimellitic Anhydride-induced Allergy"
+  journal: "KOREAN JOURNAL FOR FOOD SCIENCE OF ANIMAL RESOURCES"
+  link: ""
+
+- year: 2015
+  authors: ""
+  title: "Therapeutic efficacy of biochanin A against arsenic-induced renal and cardiac damage in rats"
+  journal: "ENVIRONMENTAL TOXICOLOGY AND PHARMACOLOGY"
+  link: ""
+
+- year: 2015
+  authors: ""
+  title: "The KIT is a putative marker for differentiating spermatogonia in stallions"
+  journal: "ANIMAL REPRODUCTION SCIENCE"
+  link: ""
+
+- year: 2014
+  authors: ""
+  title: "Transcriptional coactivator undifferentiated embryonic cell transcription factor 1 expressed in spermatogonial stem cells: A putative marker of boar spermatogonia"
+  journal: "ANIMAL REPRODUCTION SCIENCE"
+  link: ""
+
+- year: 2014
+  authors: ""
+  title: "Identification and in vitro derivation of spermatogonia in beagle testis"
+  journal: "PLoS ONE"
+  link: ""
+
+- year: 2014
+  authors: ""
+  title: "Ameliorating Effect of Selenium against Arsenic Induced Male Reproductive Toxicity in Rats"
+  journal: "전국규모학술지"
+  link: ""
+
+- year: 2014
+  authors: ""
+  title: "Effects of Egg White Consumption on Allergy, Immune Modulation, and Blood Cholesterol Levels in BALB/c Mice"
+  journal: "Korean Journal for Food Science of Animal Resources"
+  link: ""
+
+- year: 2014
+  authors: ""
+  title: "Pig Spermatozoa Defect in Acrosome Formation Caused Poor Motion Parameters and Fertilization Failure through Artificial Insemination and In vitro Fertilization"
+  journal: "ASIAN-AUSTRALASIAN JOURNAL OF ANIMAL SCIENCES"
+  link: ""
+
+- year: 2014
+  authors: ""
+  title: "Transcriptional activation of OCT4 by the ETS transcription factor PEA3 in NCCIT human embryonic carcinoma cells"
+  journal: "FEBS LETTERS"
+  link: ""
+
+- year: 2014
+  authors: ""
+  title: "Transcriptional regulation of OCT4 by the ETS transcription factor ESE-1 in NCCIT human embryonic carcinoma cells"
+  journal: "BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS"
+  link: ""
+
+- year: 2014
+  authors: ""
+  title: "Stage-dependent DAZL localization in stallion germ cells"
+  journal: "ANIMAL REPRODUCTION SCIENCE"
+  link: ""
+
+- year: 2014
+  authors: ""
+  title: "n-butanol fraction of Uncaria rhynchophylla induces apoptosis in human hepatoma cancer cells through activation of PARP"
+  journal: "BIOTECHNOLOGY AND BIOPROCESS ENGINEERING"
+  link: ""
+
+- year: 2014
+  authors: ""
+  title: "Differential Expression of ETS Family Transcription Factors in NCCIT Human Embryonic Carcinoma Cells upon Retinoic Acid-Induced Differentiation"
+  journal: "BIOLOGICAL & PHARMACEUTICAL BULLETIN"
   link: ""
 
 - year: 2013
