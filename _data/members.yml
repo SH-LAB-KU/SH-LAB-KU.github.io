@@ -18,8 +18,8 @@
 - name: 박유나
   role: 석박사통합과정
   desc: 
-  photo: yuna.jpg
-  photo_hover: yuna_hover.jpg
+  photo: yuna_hover.jpg
+  photo_hover: yuna.jpg
 
 - name: 임하영
   role: 학부연구생
