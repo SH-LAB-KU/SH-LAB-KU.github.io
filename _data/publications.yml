@@ -1,8 +1,8 @@
 # year, authors, title, journal, link 순으로 항목을 추가하세요.
 # 최신 논문이 위로 오도록 정렬합니다.
 
-- year: 2026
-  authors: "Yoo N, et al."
-  title: "논문 제목을 입력하세요"
+- year: 2001
+  authors: "Song, H et al."
+  title: "The carboxy-terminal domain of IGF-binding protein-5 inhibits heparin binding to a site in the central domain"
   journal: "Biotechnic & Histochemistry"
-  link: "#"
+  link: "https://doi.org/10.1677/jme.0.0260229"
