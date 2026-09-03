@@ -198,6 +198,8 @@ body {
       &::after { content: " →"; }
       &:hover { text-decoration: underline; }
     }
+
+    strong { color: $green-800; }
   }
 }
 
