@@ -15,6 +15,12 @@
   photo: hy.jpg
   photo_hover: hy_hover.jpg
 
+- name: 김동현
+  role: 석사후연구원
+  desc: 
+  photo: dh.jpg
+  photo_hover: dh_hover.jpg
+
 - name: 박유나
   role: 석박사통합과정
   desc: 
