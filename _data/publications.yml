@@ -1,6 +1,78 @@
 # year, authors, title, journal, link 순으로 항목을 추가하세요.
 # 최신 논문이 위로 오도록 정렬합니다.
 
+- year: 2008
+  authors: ""
+  title: "Soluble form of VCAM-1 induces migration and proliferation of vascular smooth muscle"
+  journal: "JOURNAL OF VASCULAR RESEARCH"
+  link: ""
+
+- year: 2008
+  authors: ""
+  title: "Cytochrome c upregulation during capacitation and spontaneous acrosome reaction determines the fate of pig sperm cells: linking proteome analysis"
+  journal: "JOURNAL OF REPRODUCTION AND DEVELOPMENT"
+  link: ""
+  
+- year: 2008
+  authors: ""
+  title: "Soluble form of VCAM-1 induces migration and proliferation of vascular smooth muscle"
+  journal: "JOURNAL OF VASCULAR RESEARCH"
+  link: ""
+
+- year: 2008
+  authors: ""
+  title: "Cytochrome c upregulation during capacitation and spontaneous acrosome reaction determines the fate of pig sperm cells: linking proteome analysis"
+  journal: "JOURNAL OF REPRODUCTION AND DEVELOPMENT"
+  link: ""
+
+- year: 2007
+  authors: ""
+  title: "Long-term follow-up of porcine male germ cells transplanted into mouse testes"
+  journal: "ZYGOTE"
+  link: ""
+
+- year: 2007
+  authors: ""
+  title: "Optimization of 25kDa linear polyethylenimine for efficient gene delivery"
+  journal: "BIOLOGICALS"
+  link: ""
+
+- year: 2007
+  authors: ""
+  title: "An intact homeobox domain is required for complete nuclear localization of human Nanog"
+  journal: "BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS"
+  link: ""
+
+- year: 2006
+  authors: ""
+  title: "Identification of multiple nuclear localization signals in murine Elf3, an ETS transcription factor"
+  journal: "FEBS LETTERS"
+  link: ""
+
+- year: 2006
+  authors: ""
+  title: "Dynamic control of oligosaccharide modification in the mammary gland: linking recombinant human erythropoietin functional analysis of transgenic mouse milk-derived hEPO"
+  journal: "TRANSGENIC RESEARCH"
+  link: ""
+
+- year: 2006
+  authors: "Choi, Yun-Jung et al."
+  title: "Significant IgG-immunoreactivity of the spermatogonia of the germ cell-depleted testis after busulfan treatment"
+  journal: "ANIMAL REPRODUCTION SCIENCE"
+  link: "https://doi.org/10.1016/j.anireprosci.2005.04.002"
+
+- year: 2005
+  authors: "Cui, Xiang-Shun et al."
+  title: "Identification of metaphase II-specific gene transcripts in porcine oocytes and their expression in early stage embryos"
+  journal: "Reproduction, Fertility and Development"
+  link: "https://doi.org/10.1071/rd05019"
+
+- year: 2003
+  authors: "Shand, John H et al."
+  title: "Specific amino acid substitutions determine the differential contribution of the N- and C-terminal domains of insulin-like growth factor (IGF)-binding protein-5 in binding IGF-I"
+  journal: "Journal of biological chemistry"
+  link: "https://doi.org/10.1074/jbc.m300526200"
+
 - year: 2001
   authors: "Song, H et al."
   title: "The carboxy-terminal domain of IGF-binding protein-5 inhibits heparin binding to a site in the central domain"
